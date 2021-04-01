@@ -1,2 +1,3 @@
-# KNN_project
-Projekt do KNN 2020/2021
+# IIS projekt
+
+Autoři: Bořek Reich, Martin Chládek, Martin Kalina
